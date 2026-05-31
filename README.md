@@ -2,9 +2,9 @@
 
 這是一個結合了經典像素風格 RPG 引擎與 Python 互動任務系統的教育型遊戲專案。本專案旨在透過 C 語言實現 RPG 核心邏輯，並利用 Python 執行教育主題的小遊戲，降低系統互動複雜度，提升教育內容的彈性。
 
-##DEMO
+## Demo
 
-https://github.com/user114514ahh/video/blob/main/rpgdemo.mp4
+https://user-images.githubusercontent.com/83382087/240593118-c6c66916-ae01-4e73-a2ca-e79132c9c7b1.mp4
 
 ## 系統架構
 
